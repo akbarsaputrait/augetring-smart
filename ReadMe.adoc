@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Automatic Garden Watering Smart System
 
 Describe your project
 
@@ -45,10 +45,14 @@ To contribute to this project please contact yahyafakrhoji <yahya.fakhroji@gmail
 Add the bill of the materials you need for this project.
 
 |===
-| ID | Part name      | Part number | Quantity
-| R1 | 10k Resistor   | 1234-abcd   | 10       
-| L1 | Red LED        | 2345-asdf   | 5        
-| A1 | Arduino Zero   | ABX00066    | 1        
+| ID | Part name         | Part number | Quantity
+| 1 | Jumper Cabel       | -           | 10       
+| 2 | Water Pump         | 12 Volt     | 5        
+| 3 | Arduino Uno        | -           | 1        
+| 4 | Bluetooth          | HC-05       | 1        
+| 5 | Breadboard         | -           | 1        
+| 6 | Relay              | 220v        | 1        
+| 7 | LCD Display        | 16 x 2      | 1        
 |===
 
 
