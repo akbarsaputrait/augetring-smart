@@ -39,7 +39,7 @@ Upload the code contained in this sketch on to your board
 This project is released under a {License} License.
 
 === Contributing
-To contribute to this project please contact yahyafakrhoji <yahya.fakhroji@gmail.com>
+To contribute to this project please contact yahyafakrhoji <yahya.fakhroji@gmail.com> or <akbarsaputrait@outlook.com>
 
 === BOM
 Add the bill of the materials you need for this project.
